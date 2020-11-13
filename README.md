@@ -12,7 +12,7 @@
 | (5)  | :pencil2:          | 校对，主要指更正错别字、调整笔记分组、修改笔记排版等 | `:pencil2:`          |
 | (6)  | :white_check_mark: | 发布测试文件                                         | `:white_check_mark:` |
 
-##  编程方式""
+##  编程方式
 
 自顶向下的编程方式
 
@@ -124,7 +124,7 @@ If-else, switch—> branch
 
 - 深度优先搜索 Depth first search
 -  广度优先搜索 Breadth first search
--  A*, etc
+-  A, etc
 
 ### 动态规划 Dynamic Programming
 
@@ -196,6 +196,3 @@ If-else, switch—> branch
     ```
 
 - O($n!$): Factorial 阶乘
-
-
-
